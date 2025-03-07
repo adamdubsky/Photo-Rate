@@ -1,0 +1,34 @@
+# General
+.DS_Store
+*.log
+*.swp
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log
+yarn-error.log
+.env.local
+.env
+.env.*.local
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+venv/
+.env
+*.sqlite3
+instance/
+
+# VS Code / IDE Settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs & Temp Files
+logs/
+*.log
+*.pid
+*.seed
+*.cover
