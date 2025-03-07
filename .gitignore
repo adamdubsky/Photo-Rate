@@ -32,3 +32,6 @@ logs/
 *.pid
 *.seed
 *.cover
+
+server/.env
+uploads/
